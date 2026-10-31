@@ -7,6 +7,6 @@
 
 - 🎮 My experience in **game design and development** helps me create **unique solutions.**
 
-- 🐶 **Linux and the command line** are my pets
+- 🐶 **Linux and the command line** are my playground
 
-- ⚡ Fun fact **I can solve a Rubik's cube**
+- ⚡ Fun fact: **I can solve a Rubik's cube**
