@@ -5,4 +5,8 @@
 
 - 🌱 I’m currently learning **the Python language in depth.**
 
+- 🎮 My experience in **game design and development** helps me create **unique solutions.**
+
+- 🐶 **Linux and the command line** are my pets
+
 - ⚡ Fun fact **I can solve a Rubik's cube**
